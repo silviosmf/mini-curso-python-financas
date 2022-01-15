@@ -1,0 +1,1 @@
+Bem vindo! Você é completamente novo em programação? Caso contrário, presumimos que você estará procurando informações sobre por que e como começar com o Python. Felizmente, um programador experiente em qualquer linguagem de programação (seja ela qual for) pode aprender Python muito rapidamente. Também é fácil para iniciantes usar e aprender, então entre!
