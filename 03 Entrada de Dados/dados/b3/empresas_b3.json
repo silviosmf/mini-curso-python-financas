@@ -1,0 +1,29 @@
+[
+    {
+        "cnpj":"47.960.950/0001-21",
+        "codigo_cvm":22470,
+        "ticker":"MGLU3",
+        "nome":"MAGAZ LUIZA",
+        "setor":"Consumo Cíclico",
+        "subsetor":"Comércio",
+        "segmento":"Eletrodomésticos"
+    },
+    {
+        "cnpj":"33.041.260/0652-90",
+        "codigo_cvm":6505,
+        "ticker":"VIIA3",
+        "nome":"VIA",
+        "setor":"Consumo Cíclico",
+        "subsetor":"Comércio",
+        "segmento":"Eletrodomésticos"
+    },
+    {
+        "cnpj":"20.247.322/0001-47",
+        "codigo_cvm":25330,
+        "ticker":"ALLD3",
+        "nome":"ALLIED",
+        "setor":"Consumo Cíclico",
+        "subsetor":"Comércio",
+        "segmento":"Eletrodomésticos"
+    }
+]
